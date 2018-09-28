@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>course_id</key>
+		<integer>47</integer>
+		<key>course_name</key>
+		<string>10 月机器学习算法班 [王牌课程 八大升级]</string>
+		<key>descp</key>
+		<string>七月在线王牌课程 第七期八大升级</string>
+		<key>image</key>
+		<string>https://www.julyedu.com/Public/Image/share/f3ba06be06.jpg</string>
+		<key>price0</key>
+		<integer>1200</integer>
+		<key>price1</key>
+		<integer>699</integer>
+		<key>sort</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>course_id</key>
+		<integer>56</integer>
+		<key>course_name</key>
+		<string>Python基础入门班 [学习Python的第一个课程]</string>
+		<key>descp</key>
+		<string>0基础，从零开始，快学Python</string>
+		<key>image</key>
+		<string>https://www.julyedu.com/Public/Image/share/473cc5f678.jpg</string>
+		<key>price0</key>
+		<integer>800</integer>
+		<key>price1</key>
+		<integer>99</integer>
+		<key>sort</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>course_id</key>
+		<integer>46</integer>
+		<key>course_name</key>
+		<string>机器学习与量化交易项目班</string>
+		<key>descp</key>
+		<string>跟着课程进度一块从零开始搭建一个自动交易系统</string>
+		<key>image</key>
+		<string>https://www.julyedu.com/Public/Image/share/efa0cad9a5.jpg</string>
+		<key>price0</key>
+		<integer>2000</integer>
+		<key>price1</key>
+		<integer>1000</integer>
+		<key>sort</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>

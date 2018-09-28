@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<dict>
+		<key>courses</key>
+		<array>
+			<dict>
+				<key>course_id</key>
+				<integer>46</integer>
+				<key>course_qq</key>
+				<string>427406512</string>
+				<key>course_title</key>
+				<string>机器学习与量化交易项目班</string>
+				<key>image_name</key>
+				<string>https://www.julyedu.com/Public/Image/efa0cad9a5.jpg</string>
+				<key>simpledescription</key>
+				<string>跟着课程进度一块从零开始搭建一个自动交易系统</string>
+				<key>v_id</key>
+				<integer>50</integer>
+			</dict>
+			<dict>
+				<key>course_id</key>
+				<integer>56</integer>
+				<key>course_qq</key>
+				<string>549107193</string>
+				<key>course_title</key>
+				<string>Python基础入门班 [近千人,学Python的第1个课]</string>
+				<key>image_name</key>
+				<string>https://www.julyedu.com/Public/Image/473cc5f678.jpg</string>
+				<key>simpledescription</key>
+				<string>0基础，从零开始，快学Python</string>
+				<key>v_id</key>
+				<integer>54</integer>
+			</dict>
+			<dict>
+				<key>course_id</key>
+				<integer>47</integer>
+				<key>course_qq</key>
+				<string>297051165</string>
+				<key>course_title</key>
+				<string>10 月机器学习算法班 [王牌课程 八大升级]</string>
+				<key>image_name</key>
+				<string>https://www.julyedu.com/Public/Image/f3ba06be06.jpg</string>
+				<key>simpledescription</key>
+				<string>七月在线王牌课程 第七期八大升级</string>
+				<key>v_id</key>
+				<integer>53</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>errno</key>
+	<integer>0</integer>
+</dict>
+</plist>
